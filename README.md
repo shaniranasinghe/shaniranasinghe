@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 ## Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not
+I am a technology enthusiast who likes to explore new technologies not only programming languages ​​but also devices. I like to share knowledge with the rest of the world. Since I am a full-time software engineer, I also like to share my code so that others can use it.
 
-## My status
