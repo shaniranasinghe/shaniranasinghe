@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## Who am I?
 
-## I'm a tech enthusiast who would like to explore new technologies, not
+I'm a tech enthusiast who would like to explore new technologies, not
+
+## My status
