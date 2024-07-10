@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Who am I?
+
+## I'm a tech enthusiast who would like to explore new technologies, not
