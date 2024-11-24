@@ -37,7 +37,7 @@ I am a technology enthusiast who likes to explore new technologies not only prog
 
 - 👨‍💻 All of my projects are available at [https://shaniranasinghe20.wixsite.com/shaniishara](https://shaniranasinghe20.wixsite.com/shaniishara)
 
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, Java, MySQL, Kotlin, Python, React, mongoDB, MERN Stack**
+- 💬 Ask me about:  **C, C++, HTML, CSS, JavaScript, PHP, Java, MySQL, Kotlin, Python, React, mongoDB, MERN Stack**
 
 - 📫 How to reach me **IT22371768@my.sliit.lk**
 <br><br><br>
