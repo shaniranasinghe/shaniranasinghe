@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Shani Ishara Ranasinghe</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a third year undergraduate student at SLIIT. As a fast learner with a strong foundation in development, I look forward to contributing to innovative software projects while further improving my technical skills.</h3>
 
