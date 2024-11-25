@@ -1,4 +1,4 @@
-![Blue Black Modern Computer Science Google Classroom Header (1)](https://github.com/user-attachments/assets/62fafda0-bef1-4e46-a014-6d8bada5e0d3)
+![Blue Black Modern Computer Science Google Classroom Header (2)](https://github.com/user-attachments/assets/b27f84db-ecba-4df2-ab67-31d3c6b36334)
 <!--
 **shaniranasinghe/shaniranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
