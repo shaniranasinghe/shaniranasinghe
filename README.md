@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Shani Ishara Ranasinghe</h1>
+
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+SriLanka"></h3>
+
 <h3 align="center">Welcome to my GitHub profile! I am a third year undergraduate student at SLIIT. As a fast learner with a strong foundation in development, I look forward to contributing to innovative software projects while further improving my technical skills.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaniranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shaniranasinghe" /> </p><br><br>  
